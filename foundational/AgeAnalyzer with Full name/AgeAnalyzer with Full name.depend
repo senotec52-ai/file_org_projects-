@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1794246177 source:c:\users\elhos\onedrive\desktop\files origanization\foundational\ageanalyzer with full name\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+

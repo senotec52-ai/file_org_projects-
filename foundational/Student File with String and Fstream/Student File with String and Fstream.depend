@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793376606 source:c:\users\elhos\onedrive\desktop\files origanization\student file with string and fstream\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

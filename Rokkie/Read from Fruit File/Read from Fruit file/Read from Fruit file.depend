@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793405284 source:c:\users\elhos\onedrive\desktop\files origanization\rokkie\read from fruit file\read from fruit file\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
